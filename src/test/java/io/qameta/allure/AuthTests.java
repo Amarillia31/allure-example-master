@@ -32,7 +32,6 @@ public class AuthTests {
     }
 
     @Test
-    @Disabled
     @AllureId("")
     @DisplayName("Авторизация через Facebook")
     @Tags({@Tag("High"), @Tag("web"), @Tag("Facebook")})
